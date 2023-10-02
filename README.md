@@ -39,3 +39,7 @@ The python libraries used were:
 - Apple has the largest MarketCap and Entreprise Value but don't have the better Revenue neither Profit Margin
 - Also Amazon has the largest Revenue despite having the worst Profit Margin and Operating Margin
 - Google(Alphabet Inc.) almost always appears 3rd in rank, it looks like a stable company
+
+### 5. Conclusion
+This was a simple project but we could get some good insights, also learned how to use python to get financial data and make data analysis.
+For further studies we can make some deeper analysis, as we could compare the stocks with the macroeconomics data. Also we can make analysis with more stocks and in longer period of time.
